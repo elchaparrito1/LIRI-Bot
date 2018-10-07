@@ -1,0 +1,375 @@
+Venue name: City Winery Nashville
+
+Location: Nashville, TN
+
+Date and time: 10/26/2018
+
+
+------------------------------------------------------------
+
+Venue name: City Winery Chicago
+
+Location: Chicago, IL
+
+Date and time: 10/28/2018
+
+
+------------------------------------------------------------
+
+Venue name: City Winery Chicago
+
+Location: Chicago, IL
+
+Date and time: 10/29/2018
+
+
+------------------------------------------------------------
+
+Venue name: City Winery Chicago
+
+Location: Chicago, IL
+
+Date and time: 10/30/2018
+
+
+------------------------------------------------------------
+
+Venue name: Troy Savings Bank Music Hall
+
+Location: Troy, NY
+
+Date and time: 11/01/2018
+
+
+------------------------------------------------------------
+
+Venue name: Aladdin Theater
+
+Location: Portland, OR
+
+Date and time: 11/11/2018
+
+
+------------------------------------------------------------
+
+Venue name: Aladdin Theater
+
+Location: Portland, OR
+
+Date and time: 11/11/2018
+
+
+------------------------------------------------------------
+
+Venue name: The Triple Door
+
+Location: Seattle, WA
+
+Date and time: 11/13/2018
+
+
+------------------------------------------------------------
+
+Venue name: The Triple Door
+
+Location: Seattle, WA
+
+Date and time: 11/14/2018
+
+
+------------------------------------------------------------
+
+Venue name: The Reel Fish Shop & Grill
+
+Location: Sonoma, CA
+
+Date and time: 11/16/2018
+
+
+------------------------------------------------------------
+
+Venue name: The Reel Fish Shop & Grill
+
+Location: Sonoma, CA
+
+Date and time: 11/17/2018
+
+
+------------------------------------------------------------
+
+Venue name: Aventura Arts & Cultural Center
+
+Location: Aventura, FL
+
+Date and time: 01/23/2019
+
+
+------------------------------------------------------------
+
+Venue name: Aventura Arts & Cultural Center
+
+Location: Aventura, FL
+
+Date and time: 01/24/2019
+
+
+------------------------------------------------------------
+
+Venue name: Boca Black Box
+
+Location: Boca Raton, FL
+
+Date and time: 01/25/2019
+
+
+------------------------------------------------------------
+
+Venue name: Boca Black Box
+
+Location: Boca Raton, FL
+
+Date and time: 01/26/2019
+
+
+------------------------------------------------------------
+
+Venue name: Jamming Festival
+
+Location: Bogotá, Colombia
+
+Date and time: 02/16/2019
+
+
+------------------------------------------------------------
+
+Venue name: iHeartRadio ALTer Ego 2019
+
+Location: Los Angeles, CA
+
+Date and time: 01/19/2019
+
+
+------------------------------------------------------------
+
+Artist: Eminem
+
+Song name: Killshot
+
+Song preview: null
+
+Album: Killshot
+
+
+------------------------------------------------------------
+
+Artist: Arms and Sleepers
+
+Song name: Killshot
+
+Song preview: https://p.scdn.co/mp3-preview/4558a41cd86d6dbe0650557387c5427d79b63969?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Life Is Everywhere
+
+
+------------------------------------------------------------
+
+Artist: Daddyphatsnaps
+
+Song name: Killshot (Nerdcore) [feat. Fabvl]
+
+Song preview: https://p.scdn.co/mp3-preview/71f2701c98b22b7d2ad05569519c43abf69e95ad?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Killshot (Nerdcore) [feat. Fabvl]
+
+
+------------------------------------------------------------
+
+Artist: YZTrax
+
+Song name: Killshot
+
+Song preview: https://p.scdn.co/mp3-preview/d1bfeb13fce31259b4c3d2d2901222398a7a0b14?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Sicario
+
+
+------------------------------------------------------------
+
+Artist: Lil Drent
+
+Song name: Killshot (MGK Diss)
+
+Song preview: https://p.scdn.co/mp3-preview/da77d15dc6cab5b8098bb2310b5aaa92093ac94c?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Killshot (MGK Diss)
+
+
+------------------------------------------------------------
+
+Artist: The Animals
+
+Song name: House Of The Rising Sun
+
+Song preview: null
+
+Album: The Animals
+
+
+------------------------------------------------------------
+
+Artist: Five Finger Death Punch
+
+Song name: House of the Rising Sun
+
+Song preview: https://p.scdn.co/mp3-preview/614ccc78408dc8460d21555624ce7db025db0b33?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2
+
+
+------------------------------------------------------------
+
+Artist: The Animals
+
+Song name: House Of The Rising Sun
+
+Song preview: null
+
+Album: The Best Of The Animals
+
+
+------------------------------------------------------------
+
+Artist: alt-J
+
+Song name: House Of The Rising Sun (feat. Tuka) - Tuka Version
+
+Song preview: https://p.scdn.co/mp3-preview/4ee739db22e86c2be91295d6753030f38a337d63?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Reduxer
+
+
+------------------------------------------------------------
+
+Artist: alt-J
+
+Song name: House of the Rising Sun
+
+Song preview: https://p.scdn.co/mp3-preview/84b676a6d484c2e62ca6d974cf4ba1f712053f01?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: RELAXER
+
+
+------------------------------------------------------------
+
+Movie Title: Sicario
+
+Released Date: 02 Oct 2015
+
+OMDB Rating: 7.6
+
+Rotten Tomatoes: 92%
+
+Country: USA, Mexico
+
+Language: English, Spanish
+
+Plot: An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
+
+Actors: Emily Blunt, Benicio Del Toro, Josh Brolin, Victor Garber
+
+
+------------------------------------------------------------
+
+Movie Title: Casino Royale
+
+Released Date: 17 Nov 2006
+
+OMDB Rating: 8.0
+
+Rotten Tomatoes: 94%
+
+Country: UK, Czech Republic, USA, Germany, Bahamas, Italy
+
+Language: English, French
+
+Plot: Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem.
+
+Actors: Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench
+
+
+------------------------------------------------------------
+
+Movie Title: Mr. Nobody
+
+Released Date: 26 Sep 2013
+
+OMDB Rating: 7.9
+
+Rotten Tomatoes: 67%
+
+Country: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+------------------------------------------------------------
+
+Artist: Backstreet Boys
+
+Song name: I Want It That Way
+
+Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: The Hits--Chapter One
+
+
+------------------------------------------------------------
+
+Artist: Backstreet Boys
+
+Song name: I Want It That Way
+
+Song preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Millennium
+
+
+------------------------------------------------------------
+
+Artist: Anthem Lights
+
+Song name: I Want It That Way
+
+Song preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: Covers Part IV
+
+
+------------------------------------------------------------
+
+Artist: Manuel Costa
+
+Song name: I Want It That Way
+
+Song preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cb658ab3dda54e77b8d16d7ef94a3da5
+
+Album: I Want It That Way
+
+
+------------------------------------------------------------
+
+Artist: Dynamite Boy
+
+Song name: I Want It That Way
+
+Song preview: null
+
+Album: Punk Goes Pop
+
+
+------------------------------------------------------------
+
